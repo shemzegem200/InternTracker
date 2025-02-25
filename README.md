@@ -1,6 +1,6 @@
 # Intern Tracker
 
-Intern Tracker is a web-based application used by the Department of CSE at SSN College of Engineering. It allows students to register, log in, and manage their internship records. This application is built using HTML, CSS, and JavaScript, with a backend that integrates Google Sheets for data storage.
+Intern Tracker is a web-based application created for the Department of CSE at SSN College of Engineering. It allows students to register, log in, and manage their internship records. This application is built using HTML, CSS, and JavaScript, with a backend that integrates Google Sheets for data storage.
 
 video demo: https://drive.google.com/file/d/12E0hPeJnAuJe_xyxfCd614K6xLs2QKc0/view?usp=sharing
 
