@@ -4,10 +4,10 @@ const userData = JSON.parse(localStorage.getItem("user"));
 console.log(userData?.username); // Outputs stored username
 console.log(userData?.option);   // Outputs 'student' or 'teacher'
 if(userData?.option==='student'){
-    window.location.href = './student/studenthome.html';
+    window.location.href = './student/internships.html';
 }
 else if(userData?.option==='teacher'){
-    window.location.href = './teacher/teacherhome.html';
+    window.location.href = './teacher/internships.html';
 }
 
 
